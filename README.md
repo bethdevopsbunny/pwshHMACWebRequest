@@ -1,4 +1,4 @@
-# Powershell WebRequest with HMAC Auth
+# Powershell WebRequest with HMAC 
 
 Wraps around Powershells Invoke-WebRequest command, generates HMAC for payload and adds it to header of the request.
 
